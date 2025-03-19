@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>College CoST</title>
+
 <link rel="icon" type="image\x-icon" href="images\icon.jpg">
-</head>
+
 <body style="background-color:lightgray;"> 
 <h2 style="background-color:darkblue; color:white; border:2px solid green; font-family:Kh Muol; font-size:200%; text-align:center;">មហាវិទ្យាល័យវិទ្យាសាស្រ្តនិងបច្ចេកវិទ្យា</h2>
 <a href="https://cost.uc.edu.kh">Visit College Science and Technology</a>
@@ -28,6 +25,4 @@ The College of Science and Technology (CoST) was established at the same time as
 <img src="UC.jpg" width="50" height="50">
 College Science and technology Copyright@2025
 </footer>
-</body>
 
-</html>
